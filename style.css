@@ -32,7 +32,7 @@
 .task-wrapper {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 .section__wrapper {
   display: flex;
@@ -110,7 +110,7 @@ input,button{
   width: 226px;
 }
 .section__item_input-value {
-  width: 226px
+  width: 226px;
 }
 .section__img {
   height: 2em;
@@ -123,18 +123,18 @@ input,button{
 
 /* Completed */
 .section__label {
-  text-decoration: line-through
+  text-decoration: line-through;
   color: #888;
 }
 
 /* Edit Task */
 .section__item_input-value {
-  display: none
+  display: none;
 }
 
 .section__item_edit-mode .section__item_input-value {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .section__item_edit-mode .section__label {
